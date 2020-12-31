@@ -1,5 +1,4 @@
 "Guid","AccountId","Amount","CloseDate","ContactId","Description","ForecastCategoryName","LeadSource","Name","NextStep","Probability","SBQQ__Contracted__c","SBQQ__CreateContractedPrices__c","SBQQ__OrderGroupID__c","SBQQ__Ordered__c","SBQQ__QuotePricebookId__c","SBQQ__Renewal__c","StageName","Type"
-2f0f998d-24b0-44c9-87eb-318a23f07d6a,90e0cadb-12ee-43d5-bc73-bc3bfc3cb925,5000.0,2020-12-31,"#N/A","#N/A",Pipeline,"#N/A",Test Opportunity 1,"#N/A",20.0,false,false,"#N/A",false,"#N/A",false,Needs Analysis,Existing Business
 50df3162-311f-4ec7-b892-8f014e0a764a,ef1f620e-22ec-46ca-a9ba-c07cf6cfe4c6,"#N/A",2020-12-31,"#N/A","#N/A",Pipeline,Web,Test Opportunity 4,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Qualification,Existing Business
 89684515-3176-4296-a7a6-d971cc9baf7b,8303b719-ece8-41d6-ad00-b7837022fc81,"#N/A",2020-12-31,"#N/A","#N/A",Pipeline,"#N/A",Test Opportunity 3,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Qualification,"#N/A"
 964b5ecc-104f-4cd3-8860-236cbd9b8984,716fa177-a232-46ae-a23d-3b429f3f3a5f,"#N/A",2020-12-31,"#N/A","#N/A",Pipeline,"#N/A",Test Opportunity 2,"#N/A",20.0,false,false,"#N/A",false,"#N/A",false,Needs Analysis,"#N/A"
