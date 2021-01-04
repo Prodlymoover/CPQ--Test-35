@@ -1,2 +1,3 @@
 "Guid","SBQQ__FilterType__c","SBQQ__FilterValue__c","SBQQ__FilterVariable__c","SBQQ__Index__c","SBQQ__Operator__c","SBQQ__Rule__c","SBQQ__TestedField__c","SBQQ__TestedObject__c","SBQQ__TestedVariable__c"
+1a84a3c8-0b37-4f0a-a2b5-02854ef215f2,Value,Test,"#N/A","#N/A",equals,6bfbc645-98cd-467a-9fd3-579c89240bcb,Unit Price,Product Option,"#N/A"
 1fe78963-5d44-47fa-9b9b-22856815c6d6,Value,Test,"#N/A","#N/A",equals,7af7d803-9981-44b0-8d35-25c8bddeabab,Unit Price,Product Option,"#N/A"
