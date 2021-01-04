@@ -1,0 +1,2 @@
+"Guid","SBQQ__FilterType__c","SBQQ__FilterValue__c","SBQQ__FilterVariable__c","SBQQ__Index__c","SBQQ__Operator__c","SBQQ__Rule__c","SBQQ__TestedField__c","SBQQ__TestedObject__c","SBQQ__TestedVariable__c"
+1fe78963-5d44-47fa-9b9b-22856815c6d6,Value,Test,"#N/A","#N/A",equals,7af7d803-9981-44b0-8d35-25c8bddeabab,Unit Price,Product Option,"#N/A"
