@@ -1,2 +1,3 @@
-"Guid","Name"
-e94695bc-e234-4618-8a81-7cb642d9f656,Test
+"Guid","Name","Test_Number__c"
+9f3f0b1b-a190-4e48-8fda-905a38b5d5db,Test2,"#N/A"
+e94695bc-e234-4618-8a81-7cb642d9f656,Test,21.0
